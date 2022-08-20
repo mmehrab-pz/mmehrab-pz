@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is mehrab
 #### I am Front-End developer
-![](https://media-exp1.licdn.com/dms/image/C4E16AQGAAN…eta&t=tgs60rZaiNEJXk_WvSTBZZOgZJ1NvdYpI6OCht_ArH8)
+![](https://media-exp1.licdn.com/dms/image/C4E16AQGAAN1JO72SUg/profile-displaybackgroundimage-shrink_200_800/0/1652614891800?e=1666224000&v=beta&t=tgs60rZaiNEJXk_WvSTBZZOgZJ1NvdYpI6OCht_ArH8)
 Hey! Im mehrab poorzakaria. I was born in 2 january 2002,
 Im living in tehran and currently studying at Parnian web design schools. Im a newbie Front end developer that build and
 design beutiful websites. Kinda like this skill and want to
