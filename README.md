@@ -5,7 +5,7 @@
 Hey! Im mehrab poorzakaria. I was born in 2 january 2002,
 Im living in tehran and currently studying at Parnian web design schools. Im a newbie Front end developer that build and
 design beutiful websites. Kinda like this skill and want to
-learn more about it. I have interests in computer and its skills not just front end. I hope you enjoyed my website ;)
+learn more about it. I have interests in computer and its skills not just front end. 
 
 Skills: Sass / Bootstrap / REACT / JS / HTML / CSS
 
