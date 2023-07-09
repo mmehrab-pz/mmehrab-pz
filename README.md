@@ -43,6 +43,4 @@ src="https://img.shields.io/github/followers/mmehrab-pz?logo=github&style=for-th
 
 <a href="http://www.github.com/mmehrab-pz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mmehrab-pz&stroke=14b8a6&background=171717&ring=22c55e&fire=22c55e&currStreakNum=14b8a6&currStreakLabel=22c55e&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/mmehrab-pz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mmehrab-pz&bg_color=171717&color=14b8a6&line=0891b2&point=14b8a6&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/mmehrab-pz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmehrab-pz&langs_count=10&title_color=22c55e&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
