@@ -12,7 +12,7 @@ Hey! Im mehrab poorzakaria. I was born in 2 january 2002, Im living in tehran an
 
 <a href="https://www.github.com/mmehrab-pz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mmehrab-pz?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
-### Skills
+# 💻 Tech Stack:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/mmehrab-pz?logo=github&style=for-th
 <p align="left"> <a href="https://www.codepen.io/https://codepen.io/mmehrabpk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/mmehrab-pz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/https://www.instagram.com/mehrab.poorzakaria_web/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mehrab-poorzakaria-1b2492237/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/https://stackoverflow.com/users/19808271/mehrab-poorzakaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 
-<b>My GitHub Stats</b>
+# 📊 GitHub Stats:
 
 <a href="http://www.github.com/mmehrab-pz"><img src="https://github-readme-stats.vercel.app/api?username=mmehrab-pz&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="mmehrab-pz's GitHub stats" /></a>
 
