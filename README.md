@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front-End Developer
 --------------------------
 
-Hey! Im mehrab poorzakaria. I was born in 2 january 2002, Im living in tehran and currently studying at Parnian web design schools. Im a newbie Front end developer that build and design beutiful websites. Kinda like this skill and want to learn more about it. I have interests in computer and its skills not just front end.
+Hey! Im mehrab pourzakaria. I was born in 2 january 2002, Im living in tehran and currently studying at Parnian web design schools. Im a newbie Front end developer that build and design beutiful websites. Kinda like this skill and want to learn more about it. I have interests in computer and its skills not just front end.
 
 * 🌍  I'm based in Tehran
 * 🖥️  See my portfolio at [WebSite](http://mehrab.poorzakaria.com)
