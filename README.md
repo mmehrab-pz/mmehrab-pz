@@ -6,7 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front-End Developer
 --------------------------
 
-Hey! Im mehrab pourzakaria. I was born in 2 january 2002, Im living in tehran and currently studying at Parnian web design schools. Im a newbie Front end developer that build and design beutiful websites. Kinda like this skill and want to learn more about it. I have interests in computer and its skills not just front end.
+I’m a passionate frontend developer with a keen eye for crafting responsive, user-friendly web applications. With expertise in modern JavaScript frameworks like React (customize as needed), I bridge the gap between design and functionality to deliver seamless digital experiences.
+
+My coding journey is driven by curiosity and a love for problem-solving—whether it’s optimizing performance, implementing animations, or ensuring accessibility. I thrive in collaborative environments and stay updated with the latest trends in frontend development to build scalable, cutting-edge solutions.
 
 * 🌍  I'm based in Tehran
 * 🖥️  See my portfolio at [WebSite](http://mehrab.poorzakaria.com)
