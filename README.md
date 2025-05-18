@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/mmehrab-pz?logo=github&style=for-th
 
 <br/>
 
-<img src="./github-header-image1.png" align="left" style="width: 100%" />  
+<img src="./pixel-jeff-clipa-s.gif" align="left" style="width: 100%" />  
   
 
 <br/>  
