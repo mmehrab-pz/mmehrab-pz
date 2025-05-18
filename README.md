@@ -57,9 +57,3 @@ src="https://img.shields.io/github/followers/mmehrab-pz?logo=github&style=for-th
 
 
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[mmehrab-pz]/[mmehrab-pz]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[mmehrab-pz]/[mmehrab-pz]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[mmehrab-pz]/[mmehrab-pz]/output/pacman-contribution-graph.svg">
-</picture>
