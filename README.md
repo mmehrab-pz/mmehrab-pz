@@ -16,6 +16,13 @@ My coding journey is driven by curiosity and a love for problem-solving—whethe
 
 <a href="https://www.github.com/mmehrab-pz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mmehrab-pz?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmehrab-pz/mmehrab-pz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmehrab-pz/mmehrab-pz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mmehrab-pz/mmehrab-pz/output/pacman-contribution-graph.svg">
+</picture>
+
 # 💻 Tech Stack:
 
 <p align="left">
@@ -55,10 +62,5 @@ src="https://img.shields.io/github/followers/mmehrab-pz?logo=github&style=for-th
 
 <a href="https://github.com/mmehrab-pz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmehrab-pz&langs_count=10&title_color=22c55e&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[mmehrab-pz]/[mmehrab-pz]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[mmehrab-pz]/[mmehrab-pz]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[mmehrab-pz]/[mmehrab-pz]/output/pacman-contribution-graph.svg">
-</picture>
 
 
