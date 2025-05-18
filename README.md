@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mehrab Pourzakaria
 ==========================================================================================================================================
 
-Junior Front-End Developer
+Front-End Developer
 --------------------------
 
 I’m a passionate frontend developer with a keen eye for crafting responsive, user-friendly web applications. With expertise in modern JavaScript frameworks like React (customize as needed), I bridge the gap between design and functionality to deliver seamless digital experiences.
