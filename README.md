@@ -62,11 +62,15 @@ src="https://img.shields.io/github/followers/mmehrab-pz?logo=github&style=for-th
 
 # 📊 GitHub Stats:
 
-<a href="http://www.github.com/mmehrab-pz"><img src="https://github-readme-stats.vercel.app/api?username=mmehrab-pz&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="mmehrab-pz's GitHub stats" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmehrab-pz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmehrab-pz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mmehrab-pz&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mmehrab-pz&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmehrab-pz&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
-<a href="http://www.github.com/mmehrab-pz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mmehrab-pz&stroke=14b8a6&background=171717&ring=22c55e&fire=22c55e&currStreakNum=14b8a6&currStreakLabel=22c55e&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="https://github.com/mmehrab-pz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmehrab-pz&langs_count=10&title_color=22c55e&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+###
 
 
 
